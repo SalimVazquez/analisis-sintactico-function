@@ -26,6 +26,10 @@ Analizador sintáctico con capacidad de reconocer la estructura de una funcion c
   - LETRA --> a...z
   - TIPO --> integer | real | boolean | string
   - LIST --> ; VARIABLE LIST | ε
+--- 
+## Entradas 📝
+  - function abc ( var abc : integer )
+  - function abc ( var abc : integer ; def : string )
 ---
  ## Descargar 🎁
 ````bash
@@ -41,10 +45,6 @@ javac Main.java
 ```bash
 java Main
 ```
---- 
-## Entradas 📝
-  - function abc ( var abc : integer )
-  - function abc ( var abc : integer ; def : string )
 ---
 ## Autores ✒️
 * [**Salim Vazquez Solis 🤓**](https://github.com/SalimVazquez)

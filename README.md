@@ -3,12 +3,12 @@ Analizador sintáctico con capacidad de reconocer la estructura de una funcion c
 
 ## Contenido
   - [Objetivo](#Objetivo)
- - [Requerimientos](##Requerimientos)
- - [Gramatica](#Gramatica)
- - [Posibles entradas](#Entradas)
- - [Compilar](#Compilar)
- - [Ejecutar](#Ejecutar)
- - [Descargar](#Descargar)
+ - [Requerimientos](#Requerimientos-)
+ - [Gramatica](#Gramatica-)
+ - [Posibles entradas](#Entradas-)
+ - [Compilar](#Compilar-)
+ - [Ejecutar](#Ejecutar-)
+ - [Descargar](#Descargar-)
 ---
 ## Objetivo
 - Crear un analizador sintactico, basado en un autómata con pila, capaz de identificar tokens de una gramatica establecida.

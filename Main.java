@@ -54,7 +54,7 @@ public class Main {
     private static void evaluateNombreRule() { // LETRA RESTOL
         printStackOut();
         for (int i = 0; i < arrays_inputs[contador].length(); i++) {
-            p = Pattern.compile("\\p{Alpha}");
+            p = Pattern.compile("[a-zA-Z]");
             m = p.matcher(String.valueOf(arrays_inputs[contador].charAt(i)));
             rules.push("RESTOL");
             rules.push("LETRA");
